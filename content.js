@@ -558,6 +558,7 @@ window.SITE_CONTENT = {
         "shutter": "1/200 s",
         "aperture": "f/5"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g01-02.jpg",
       "baseSrc": "assets/photos/base/2026-g01-02.jpg",
       "watermarkYear": "2026",
@@ -590,6 +591,7 @@ window.SITE_CONTENT = {
         "shutter": "1/160 s",
         "aperture": "f/5.6"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g01-03.jpg",
       "baseSrc": "assets/photos/base/2026-g01-03.jpg",
       "watermarkYear": "2026",
@@ -850,6 +852,7 @@ window.SITE_CONTENT = {
         "shutter": "1/1000 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-01.jpg",
       "baseSrc": "assets/photos/base/2025-g02-01.jpg",
       "watermarkYear": "2025",
@@ -1076,6 +1079,7 @@ window.SITE_CONTENT = {
         "shutter": "",
         "aperture": ""
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-06.jpg",
       "baseSrc": "assets/photos/base/2025-g02-06.jpg",
       "watermarkYear": "2025",
@@ -1108,6 +1112,7 @@ window.SITE_CONTENT = {
         "shutter": "1/500 s",
         "aperture": "f/5"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-07.jpg",
       "baseSrc": "assets/photos/base/2025-g02-07.jpg",
       "watermarkYear": "2025",
@@ -1140,6 +1145,7 @@ window.SITE_CONTENT = {
         "shutter": "1/250 s",
         "aperture": "f/5.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-08.jpg",
       "baseSrc": "assets/photos/base/2025-g02-08.jpg",
       "watermarkYear": "2025",
@@ -1204,6 +1210,7 @@ window.SITE_CONTENT = {
         "shutter": "1/50 s",
         "aperture": "f/5.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-09.jpg",
       "baseSrc": "assets/photos/base/2025-g02-09.jpg",
       "watermarkYear": "2025",
@@ -1236,6 +1243,7 @@ window.SITE_CONTENT = {
         "shutter": "1/200 s",
         "aperture": "f/4.8"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g02-10.jpg",
       "baseSrc": "assets/photos/base/2025-g02-10.jpg",
       "watermarkYear": "2025",
@@ -1300,6 +1308,7 @@ window.SITE_CONTENT = {
         "shutter": "1/160 s",
         "aperture": "f/4.5"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g02-04.jpg",
       "baseSrc": "assets/photos/base/2026-g02-04.jpg",
       "watermarkYear": "2026",
@@ -1366,6 +1375,7 @@ window.SITE_CONTENT = {
         "shutter": "1 s",
         "aperture": "f/2.5"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g03-02.jpg",
       "baseSrc": "assets/photos/base/2025-g03-02.jpg",
       "watermarkYear": "2025",
@@ -1430,6 +1440,7 @@ window.SITE_CONTENT = {
         "shutter": "",
         "aperture": ""
       },
+      "portrait": true,
       "src": "assets/photos/2025-g03-04.jpg",
       "baseSrc": "assets/photos/base/2025-g03-04.jpg",
       "watermarkYear": "2025",
@@ -1462,6 +1473,7 @@ window.SITE_CONTENT = {
         "shutter": "1/160 s",
         "aperture": "f/5"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g04-01.jpg",
       "baseSrc": "assets/photos/base/2026-g04-01.jpg",
       "watermarkYear": "2026",
@@ -1494,6 +1506,7 @@ window.SITE_CONTENT = {
         "shutter": "1/500 s",
         "aperture": "f/5.3"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g04-02.jpg",
       "baseSrc": "assets/photos/base/2026-g04-02.jpg",
       "watermarkYear": "2026",
@@ -1526,6 +1539,7 @@ window.SITE_CONTENT = {
         "shutter": "1/400 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g04-03.jpg",
       "baseSrc": "assets/photos/base/2026-g04-03.jpg",
       "watermarkYear": "2026",
@@ -1622,6 +1636,7 @@ window.SITE_CONTENT = {
         "shutter": "1/125 s",
         "aperture": "f/1.4"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g04-02.jpg",
       "baseSrc": "assets/photos/base/2025-g04-02.jpg",
       "watermarkYear": "2025",
@@ -1654,6 +1669,7 @@ window.SITE_CONTENT = {
         "shutter": "1/200 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g04-03.jpg",
       "baseSrc": "assets/photos/base/2025-g04-03.jpg",
       "watermarkYear": "2025",
@@ -1750,6 +1766,7 @@ window.SITE_CONTENT = {
         "shutter": "1/200 s",
         "aperture": "f/5.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g04-06.jpg",
       "baseSrc": "assets/photos/base/2025-g04-06.jpg",
       "watermarkYear": "2025",
@@ -1814,6 +1831,7 @@ window.SITE_CONTENT = {
         "shutter": "1/80 s",
         "aperture": "f/1.8"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g04-08.jpg",
       "baseSrc": "assets/photos/base/2025-g04-08.jpg",
       "watermarkYear": "2025",
@@ -1878,6 +1896,7 @@ window.SITE_CONTENT = {
         "shutter": "1/640 s",
         "aperture": "f/2.8"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g05-02.jpg",
       "baseSrc": "assets/photos/base/2025-g05-02.jpg",
       "watermarkYear": "2025",
@@ -2266,6 +2285,7 @@ window.SITE_CONTENT = {
         "shutter": "1/400 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2026-g08-04.jpg",
       "baseSrc": "assets/photos/base/2026-g08-04.jpg",
       "watermarkYear": "2026",
@@ -2298,6 +2318,7 @@ window.SITE_CONTENT = {
         "shutter": "1/500 s",
         "aperture": "f/11"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g09-01.jpg",
       "baseSrc": "assets/photos/base/2025-g09-01.jpg",
       "watermarkYear": "2025",
@@ -2428,6 +2449,7 @@ window.SITE_CONTENT = {
         "shutter": "1/60 s",
         "aperture": "f/5"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g10-01.jpg",
       "baseSrc": "assets/photos/base/2025-g10-01.jpg",
       "watermarkYear": "2025",
@@ -2560,6 +2582,7 @@ window.SITE_CONTENT = {
         "shutter": "1/400 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g10-05.jpg",
       "baseSrc": "assets/photos/base/2025-g10-05.jpg",
       "watermarkYear": "2025",
@@ -2656,6 +2679,7 @@ window.SITE_CONTENT = {
         "shutter": "1/60 s",
         "aperture": "f/1.4"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g10-08.jpg",
       "baseSrc": "assets/photos/base/2025-g10-08.jpg",
       "watermarkYear": "2025",
@@ -2912,6 +2936,7 @@ window.SITE_CONTENT = {
         "shutter": "1/4000 s",
         "aperture": "f/4.5"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g12-01.jpg",
       "baseSrc": "assets/photos/base/2025-g12-01.jpg",
       "watermarkYear": "2025",
@@ -2944,6 +2969,7 @@ window.SITE_CONTENT = {
         "shutter": "10 s",
         "aperture": "f/8"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g12-02.jpg",
       "baseSrc": "assets/photos/base/2025-g12-02.jpg",
       "watermarkYear": "2025",
@@ -3364,6 +3390,7 @@ window.SITE_CONTENT = {
         "shutter": "1/500 s",
         "aperture": "f/6.3"
       },
+      "portrait": true,
       "src": "assets/photos/2025-g13-13.jpg",
       "baseSrc": "assets/photos/base/2025-g13-13.jpg",
       "watermarkYear": "2025",
@@ -3595,6 +3622,7 @@ window.SITE_CONTENT = {
         "shutter": "",
         "aperture": ""
       },
+      "portrait": true,
       "src": "assets/photos/2025-g09-03.jpg",
       "baseSrc": "assets/photos/base/2025-g09-03.jpg",
       "watermarkYear": "2025",

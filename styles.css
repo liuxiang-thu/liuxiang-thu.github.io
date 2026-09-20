@@ -50,3 +50,7 @@
 .featured-next{right:24px}
 .featured-next::before{transform:translate(-50%,-50%) scaleX(-1)}
 @media(max-width:520px){.featured-prev{left:12px}.featured-next{right:12px}.featured-arrow::before{width:8px;height:14px}}
+
+/* Gallery sorting controls. */
+.gallery-title{align-items:center;gap:20px}.gallery-meta{display:flex;align-items:center;justify-content:flex-end;gap:12px;flex-wrap:wrap}.gallery-meta>span{font-size:12px;color:var(--muted)}.sort-switch{display:inline-flex;padding:2px;border:1px solid var(--line);border-radius:5px;background:var(--surface)}.sort-switch button{padding:3px 9px;border-radius:3px;font-size:11px;color:var(--muted);white-space:nowrap}.sort-switch button[aria-pressed=true]{color:var(--accent);background:var(--bg);box-shadow:0 1px 4px #14243b12}
+@media(max-width:520px){.gallery-title{align-items:flex-start}.gallery-meta{justify-content:flex-start}.gallery-meta>span{flex-basis:100%}}
