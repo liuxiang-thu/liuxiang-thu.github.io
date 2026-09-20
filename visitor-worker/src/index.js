@@ -112,23 +112,31 @@ export default {
       if (!body) return json({ error: "invalid_json" }, 400, origin);
       const visitorId = String(body.visitorId || "");
       const photoId = String(body.photoId || "");
+      const desiredLiked = body.liked;
       if (!validVisitorId(visitorId)) {
         return json({ error: "invalid_visitor_id" }, 400, origin);
       }
       if (!/^[a-z0-9][a-z0-9_-]{0,63}$/i.test(photoId)) {
         return json({ error: "invalid_photo_id" }, 400, origin);
       }
+      if (typeof desiredLiked !== "boolean") {
+        return json({ error: "invalid_liked_state" }, 400, origin);
+      }
 
       const visitorHash = await sha256(visitorId);
-      const inserted = await env.DB.prepare(
-        "INSERT OR IGNORE INTO photo_likes (visitor_hash, photo_id) VALUES (?, ?)",
-      ).bind(visitorHash, photoId).run();
+      const changed = desiredLiked
+        ? await env.DB.prepare(
+          "INSERT OR IGNORE INTO photo_likes (visitor_hash, photo_id) VALUES (?, ?)",
+        ).bind(visitorHash, photoId).run()
+        : await env.DB.prepare(
+          "DELETE FROM photo_likes WHERE visitor_hash = ? AND photo_id = ?",
+        ).bind(visitorHash, photoId).run();
       const result = await env.DB.prepare(
         "SELECT COUNT(*) AS count FROM photo_likes WHERE photo_id = ?",
       ).bind(photoId).first();
       return json({
-        liked: true,
-        added: Number(inserted.meta?.changes || 0) > 0,
+        liked: desiredLiked,
+        changed: Number(changed.meta?.changes || 0) > 0,
         count: Number(result?.count || 0),
       }, 200, origin);
     }
