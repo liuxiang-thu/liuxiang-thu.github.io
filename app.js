@@ -6,6 +6,8 @@
  const t=x=>typeof x==='object'&&x!==null?(x[lang]||x.zh||x.en||''):x||'';
  const tr=(z,e)=>lang==='zh'?z:e;
  const safeUrl=(u,image=false)=>{u=String(u||'');if(image&&/^data:image\/(jpeg|png|webp);base64,/i.test(u))return u;if(image&&/^assets\/[a-zA-Z0-9_./-]+$/.test(u)&&!u.includes('..'))return u;try{const n=new URL(u);return ['https:','http:'].includes(n.protocol)?n.href:''}catch{return ''}};
+ const visitorId=()=>{let id=storage.get('xl-visitor-id');if(id)return id;try{id=crypto.randomUUID()}catch{id='xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,c=>{const r=crypto.getRandomValues(new Uint8Array(1))[0]&15;return(c==='x'?r:(r&3|8)).toString(16)})}storage.set('xl-visitor-id',id);return id};
+ async function recordVisit(){const endpoint=safeUrl(data.stats?.visitEndpoint);if(!endpoint||location.protocol==='file:')return;try{await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({visitorId:visitorId()}),keepalive:true,signal:AbortSignal.timeout(6000)})}catch{}}
  const link=(u,label,cls='')=>safeUrl(u)?`<a href="${esc(safeUrl(u))}" target="_blank" rel="noopener noreferrer" class="${cls}">${esc(label)}</a>`:'';
  const authors=p=>p.authors.map(a=>`${a.name==='Xiang Liu'?'<strong>':''}${esc(a.name)}${a.name==='Xiang Liu'?'</strong>':''}${a.marks?`<sup>${esc(a.marks)}</sup>`:''}`).join(', ');
  const links=p=>`${link(p.project,'Project page ↗')}${link(p.arxiv,'arXiv ↗')}${p.openreview?link(p.openreview,'OpenReview ↗'):''}`;
@@ -43,6 +45,7 @@
  $('#visits').onclick=async()=>{const el=$('#stats-body');el.innerHTML=`<div class="eyebrow">VISITOR STATISTICS</div><h2>${tr('历史浏览人数','Visitor history')}</h2><div class="stats-number">—</div><p class="muted">${tr('暂未连接全站访客统计。','Site-wide visitor statistics are not connected yet.')}</p>`;$('#stats-dialog').showModal();if(!data.stats.endpoint)return;el.querySelector('p').textContent=tr('正在读取统计…','Loading statistics…');try{const r=await fetch(safeUrl(data.stats.endpoint),{signal:AbortSignal.timeout(6000)});if(!r.ok)throw Error();const j=await r.json();if(!Number.isSafeInteger(j.uniqueVisitors)||j.uniqueVisitors<0)throw Error();el.querySelector('.stats-number').textContent=j.uniqueVisitors.toLocaleString();el.querySelector('p').textContent=tr('累计独立访客 · 由已配置的统计服务提供','Lifetime unique visitors · provided by the configured analytics service')}catch{el.querySelector('p').textContent=tr('统计服务暂时不可用，请稍后重试。','Statistics are temporarily unavailable. Please try again later.')}};
  setInterval(()=>{if(route==='about'&&!paused&&!hover&&!document.hidden&&!document.querySelector('dialog[open]'))showSlide(slide+1)},5500);
  render();
+ recordVisit();
  // Only an explicit editor preview reads local working content. Normal visitors always see content.js.
  if(new URLSearchParams(location.search).get('preview')==='1'){
   const req=indexedDB.open('xiang-liu-editor',1);req.onupgradeneeded=()=>req.result.createObjectStore('state');req.onsuccess=()=>{const q=req.result.transaction('state').objectStore('state').get('preview');q.onsuccess=()=>{if(q.result){data=q.result;slide=0;render();toast(tr('本地编辑预览，尚未发布','Local editor preview — not published'))}req.result.close()}};

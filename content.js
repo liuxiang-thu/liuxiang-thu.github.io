@@ -3323,6 +3323,7 @@ window.SITE_CONTENT = {
     }
   ],
   "stats": {
-    "endpoint": ""
+    "endpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/stats",
+    "visitEndpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/visit"
   }
 };
