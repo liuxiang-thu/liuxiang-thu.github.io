@@ -54,3 +54,8 @@
 /* Gallery sorting controls. */
 .gallery-title{align-items:center;gap:20px}.gallery-meta{display:flex;align-items:center;justify-content:flex-end;gap:12px;flex-wrap:wrap}.gallery-meta>span{font-size:12px;color:var(--muted)}.sort-switch{display:inline-flex;padding:2px;border:1px solid var(--line);border-radius:5px;background:var(--surface)}.sort-switch button{padding:3px 9px;border-radius:3px;font-size:11px;color:var(--muted);white-space:nowrap}.sort-switch button[aria-pressed=true]{color:var(--accent);background:var(--bg);box-shadow:0 1px 4px #14243b12}
 @media(max-width:520px){.gallery-title{align-items:flex-start}.gallery-meta{justify-content:flex-start}.gallery-meta>span{flex-basis:100%}}
+
+/* Keep each award certificate in the final column after sections became collapsible. */
+.honor-columns .honor{grid-template-columns:58px minmax(0,1fr) 48px}
+@media(max-width:760px){.honor-columns .honor{grid-template-columns:66px minmax(0,1fr) 46px}}
+@media(max-width:520px){.honor-columns .honor{grid-template-columns:56px minmax(0,1fr) 42px;gap:10px}}
