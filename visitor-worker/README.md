@@ -1,9 +1,11 @@
 # 主页访客统计 Worker
 
-这个 Worker 为 `https://liuxiang-thu.github.io` 提供两个接口：
+这个 Worker 为 `https://liuxiang-thu.github.io` 提供四个接口：
 
 - `POST /visit`：接收匿名浏览器 UUID，哈希后写入 D1；重复 UUID 不增加人数。
 - `GET /stats`：返回 `{"uniqueVisitors": 123}`。
+- `POST /likes`：返回每张照片的爱心数，以及当前匿名访客已经点过爱心的照片。
+- `POST /like`：为指定照片点一次爱心；数据库联合主键保证同一访客不能重复增加。
 
 ## Cloudflare 控制台部署
 

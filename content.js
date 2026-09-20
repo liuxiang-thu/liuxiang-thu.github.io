@@ -663,7 +663,9 @@ window.SITE_CONTENT = {
         "background": "rgb(206,211,215)",
         "foreground": "#000000"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 0
     },
     {
       "id": "2026-g01-06",
@@ -727,7 +729,9 @@ window.SITE_CONTENT = {
         "background": "rgb(113,103,85)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 1
     },
     {
       "id": "2026-g01-08",
@@ -887,7 +891,9 @@ window.SITE_CONTENT = {
         "background": "rgb(205,208,205)",
         "foreground": "#000000"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 4
     },
     {
       "id": "2025-g02-03",
@@ -1335,7 +1341,9 @@ window.SITE_CONTENT = {
         "background": "rgb(9,16,21)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 5
     },
     {
       "id": "2025-g03-02",
@@ -1957,8 +1965,8 @@ window.SITE_CONTENT = {
         "en": "Sunset on Chang'an Avenue · 01"
       },
       "alt": {
-        "zh": "天安门晚霞摄影作品：长安街晚霞 · 01",
-        "en": "Tiananmen Sunset photograph: Sunset on Chang'an Avenue · 01"
+        "zh": "北京四时摄影作品：长安街晚霞 · 01",
+        "en": "Beijing Seasons photograph: Sunset on Chang'an Avenue · 01"
       },
       "camera": {
         "focal": "250 mm",
@@ -1989,8 +1997,8 @@ window.SITE_CONTENT = {
         "en": "Sunset on Chang'an Avenue · 02"
       },
       "alt": {
-        "zh": "天安门晚霞摄影作品：长安街晚霞 · 02",
-        "en": "Tiananmen Sunset photograph: Sunset on Chang'an Avenue · 02"
+        "zh": "北京四时摄影作品：长安街晚霞 · 02",
+        "en": "Beijing Seasons photograph: Sunset on Chang'an Avenue · 02"
       },
       "camera": {
         "focal": "185 mm",
@@ -2071,7 +2079,9 @@ window.SITE_CONTENT = {
         "background": "rgb(13,2,1)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 7
     },
     {
       "id": "2025-g07-03",
@@ -2135,7 +2145,9 @@ window.SITE_CONTENT = {
         "background": "rgb(207,204,203)",
         "foreground": "#000000"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 8
     },
     {
       "id": "2026-g08-01",
@@ -2327,7 +2339,9 @@ window.SITE_CONTENT = {
         "background": "rgb(10,13,18)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 3
     },
     {
       "id": "2026-g09-02",
@@ -2397,16 +2411,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-01",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 01",
-        "en": "Riverside Twilight · 01"
+        "zh": "纪念馆光影",
+        "en": "Museum in Light"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 01",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 01"
+        "zh": "金陵漫游摄影作品：纪念馆光影",
+        "en": "Nanjing Strolls photograph: Museum in Light"
       },
       "camera": {
         "focal": "33 mm",
@@ -2429,16 +2443,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-02",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 02",
-        "en": "Riverside Twilight · 02"
+        "zh": "江桥暮色",
+        "en": "Bridge at Twilight"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 02",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 02"
+        "zh": "金陵漫游摄影作品：江桥暮色",
+        "en": "Nanjing Strolls photograph: Bridge at Twilight"
       },
       "camera": {
         "focal": "33 mm",
@@ -2455,22 +2469,24 @@ window.SITE_CONTENT = {
         "background": "rgb(6,11,14)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 9
     },
     {
       "id": "2025-g10-03",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 03",
-        "en": "Riverside Twilight · 03"
+        "zh": "石臼湖 · 01",
+        "en": "Shijiu Lake · 01"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 03",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 03"
+        "zh": "金陵漫游摄影作品：石臼湖 · 01",
+        "en": "Nanjing Strolls photograph: Shijiu Lake · 01"
       },
       "camera": {
         "focal": "110 mm",
@@ -2487,22 +2503,24 @@ window.SITE_CONTENT = {
         "background": "rgb(208,231,239)",
         "foreground": "#000000"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 10
     },
     {
       "id": "2025-g10-04",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 04",
-        "en": "Riverside Twilight · 04"
+        "zh": "石臼湖 · 02",
+        "en": "Shijiu Lake · 02"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 04",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 04"
+        "zh": "金陵漫游摄影作品：石臼湖 · 02",
+        "en": "Nanjing Strolls photograph: Shijiu Lake · 02"
       },
       "camera": {
         "focal": "250 mm",
@@ -2525,16 +2543,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-05",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 05",
-        "en": "Riverside Twilight · 05"
+        "zh": "石臼湖 · 03",
+        "en": "Shijiu Lake · 03"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 05",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 05"
+        "zh": "金陵漫游摄影作品：石臼湖 · 03",
+        "en": "Nanjing Strolls photograph: Shijiu Lake · 03"
       },
       "camera": {
         "focal": "250 mm",
@@ -2557,16 +2575,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-06",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "南京校园与春日",
+        "en": "Nanjing Campus & Spring"
       },
       "title": {
-        "zh": "江岸暮色 · 06",
-        "en": "Riverside Twilight · 06"
+        "zh": "校园晚霞",
+        "en": "Campus Sunset"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 06",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 06"
+        "zh": "南京校园与春日摄影作品：校园晚霞",
+        "en": "Nanjing Campus & Spring photograph: Campus Sunset"
       },
       "camera": {
         "focal": "120 mm",
@@ -2589,16 +2607,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-07",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 07",
-        "en": "Riverside Twilight · 07"
+        "zh": "颐和路 · 01",
+        "en": "Yihe Road · 01"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 07",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 07"
+        "zh": "金陵漫游摄影作品：颐和路 · 01",
+        "en": "Nanjing Strolls photograph: Yihe Road · 01"
       },
       "camera": {
         "focal": "33 mm",
@@ -2621,16 +2639,16 @@ window.SITE_CONTENT = {
       "id": "2025-g10-08",
       "year": "2025",
       "theme": {
-        "zh": "金陵江岸",
-        "en": "Nanjing Riverside"
+        "zh": "金陵漫游",
+        "en": "Nanjing Strolls"
       },
       "title": {
-        "zh": "江岸暮色 · 08",
-        "en": "Riverside Twilight · 08"
+        "zh": "颐和路 · 02",
+        "en": "Yihe Road · 02"
       },
       "alt": {
-        "zh": "金陵江岸摄影作品：江岸暮色 · 08",
-        "en": "Nanjing Riverside photograph: Riverside Twilight · 08"
+        "zh": "金陵漫游摄影作品：颐和路 · 02",
+        "en": "Nanjing Strolls photograph: Yihe Road · 02"
       },
       "camera": {
         "focal": "33 mm",
@@ -2885,8 +2903,8 @@ window.SITE_CONTENT = {
         "en": "City, Water & Hills · 01"
       },
       "alt": {
-        "zh": "南京山水城林摄影作品：山水城林 · 01",
-        "en": "Nanjing City & Hills photograph: City, Water & Hills · 01"
+        "zh": "南京校园与春日摄影作品：山水城林 · 01",
+        "en": "Nanjing Campus & Spring photograph: City, Water & Hills · 01"
       },
       "camera": {
         "focal": "50 mm",
@@ -2917,8 +2935,8 @@ window.SITE_CONTENT = {
         "en": "City, Water & Hills · 02"
       },
       "alt": {
-        "zh": "南京山水城林摄影作品：山水城林 · 02",
-        "en": "Nanjing City & Hills photograph: City, Water & Hills · 02"
+        "zh": "南京校园与春日摄影作品：山水城林 · 02",
+        "en": "Nanjing Campus & Spring photograph: City, Water & Hills · 02"
       },
       "camera": {
         "focal": "250 mm",
@@ -2941,16 +2959,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-01",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 01",
         "en": "Plateau Journal · 01"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 01",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 01"
+        "zh": "西藏风光摄影作品：高原行记 · 01",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 01"
       },
       "camera": {
         "focal": "250 mm",
@@ -2973,16 +2991,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-02",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 02",
         "en": "Plateau Journal · 02"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 02",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 02"
+        "zh": "西藏风光摄影作品：高原行记 · 02",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 02"
       },
       "camera": {
         "focal": "33 mm",
@@ -2999,22 +3017,24 @@ window.SITE_CONTENT = {
         "background": "rgb(13,25,36)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 11
     },
     {
       "id": "2025-g13-03",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 03",
         "en": "Plateau Journal · 03"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 03",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 03"
+        "zh": "西藏风光摄影作品：高原行记 · 03",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 03"
       },
       "camera": {
         "focal": "33 mm",
@@ -3037,16 +3057,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-04",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 04",
         "en": "Plateau Journal · 04"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 04",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 04"
+        "zh": "西藏风光摄影作品：高原行记 · 04",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 04"
       },
       "camera": {
         "focal": "67 mm",
@@ -3069,16 +3089,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-05",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 05",
         "en": "Plateau Journal · 05"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 05",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 05"
+        "zh": "西藏风光摄影作品：高原行记 · 05",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 05"
       },
       "camera": {
         "focal": "33 mm",
@@ -3101,16 +3121,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-06",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 06",
         "en": "Plateau Journal · 06"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 06",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 06"
+        "zh": "西藏风光摄影作品：高原行记 · 06",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 06"
       },
       "camera": {
         "focal": "50 mm",
@@ -3133,16 +3153,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-07",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 07",
         "en": "Plateau Journal · 07"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 07",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 07"
+        "zh": "西藏风光摄影作品：高原行记 · 07",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 07"
       },
       "camera": {
         "focal": "210 mm",
@@ -3165,16 +3185,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-08",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 08",
         "en": "Plateau Journal · 08"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 08",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 08"
+        "zh": "西藏风光摄影作品：高原行记 · 08",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 08"
       },
       "camera": {
         "focal": "150 mm",
@@ -3197,16 +3217,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-09",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 09",
         "en": "Plateau Journal · 09"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 09",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 09"
+        "zh": "西藏风光摄影作品：高原行记 · 09",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 09"
       },
       "camera": {
         "focal": "",
@@ -3229,16 +3249,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-10",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 10",
         "en": "Plateau Journal · 10"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 10",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 10"
+        "zh": "西藏风光摄影作品：高原行记 · 10",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 10"
       },
       "camera": {
         "focal": "",
@@ -3261,16 +3281,16 @@ window.SITE_CONTENT = {
       "id": "2025-g13-11",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 11",
         "en": "Plateau Journal · 11"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 11",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 11"
+        "zh": "西藏风光摄影作品：高原行记 · 11",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 11"
       },
       "camera": {
         "focal": "",
@@ -3287,22 +3307,24 @@ window.SITE_CONTENT = {
         "background": "rgb(79,114,143)",
         "foreground": "#ffffff"
       },
-      "maxBytes": 1000000
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 12
     },
     {
       "id": "2025-g13-12",
       "year": "2025",
       "theme": {
-        "zh": "西藏高原",
-        "en": "Tibetan Plateau"
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
       },
       "title": {
         "zh": "高原行记 · 12",
         "en": "Plateau Journal · 12"
       },
       "alt": {
-        "zh": "西藏高原摄影作品：高原行记 · 12",
-        "en": "Tibetan Plateau photograph: Plateau Journal · 12"
+        "zh": "西藏风光摄影作品：高原行记 · 12",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 12"
       },
       "camera": {
         "focal": "",
@@ -3320,10 +3342,275 @@ window.SITE_CONTENT = {
         "foreground": "#ffffff"
       },
       "maxBytes": 1000000
+    },
+    {
+      "id": "2025-g13-13",
+      "year": "2025",
+      "theme": {
+        "zh": "西藏风光",
+        "en": "Tibet Landscapes"
+      },
+      "title": {
+        "zh": "高原行记 · 13",
+        "en": "Plateau Journal · 13"
+      },
+      "alt": {
+        "zh": "西藏风光摄影作品：高原行记 · 13",
+        "en": "Tibet Landscapes photograph: Plateau Journal · 13"
+      },
+      "camera": {
+        "focal": "240 mm",
+        "iso": "200",
+        "shutter": "1/500 s",
+        "aperture": "f/6.3"
+      },
+      "src": "assets/photos/2025-g13-13.jpg",
+      "baseSrc": "assets/photos/base/2025-g13-13.jpg",
+      "watermarkYear": "2025",
+      "watermarkVersion": 2,
+      "watermarkHeight": 77,
+      "watermarkColors": {
+        "background": "rgb(50,24,22)",
+        "foreground": "#ffffff"
+      },
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-g06-03",
+      "year": "2026",
+      "theme": {
+        "zh": "北京四时",
+        "en": "Beijing Seasons"
+      },
+      "title": {
+        "zh": "长安街晚霞 · 03",
+        "en": "Sunset on Chang'an Avenue · 03"
+      },
+      "alt": {
+        "zh": "北京四时摄影作品：长安街晚霞 · 03",
+        "en": "Beijing Seasons photograph: Sunset on Chang'an Avenue · 03"
+      },
+      "camera": {
+        "focal": "50 mm",
+        "iso": "200",
+        "shutter": "1/80 s",
+        "aperture": "f/4.5"
+      },
+      "src": "assets/photos/2026-g06-03.jpg",
+      "baseSrc": "assets/photos/base/2026-g06-03.jpg",
+      "watermarkYear": "2026",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(236,147,107)",
+        "foreground": "#000000"
+      },
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 2
+    },
+    {
+      "id": "2026-g06-04",
+      "year": "2026",
+      "theme": {
+        "zh": "北京四时",
+        "en": "Beijing Seasons"
+      },
+      "title": {
+        "zh": "长安街晚霞 · 04",
+        "en": "Sunset on Chang'an Avenue · 04"
+      },
+      "alt": {
+        "zh": "北京四时摄影作品：长安街晚霞 · 04",
+        "en": "Beijing Seasons photograph: Sunset on Chang'an Avenue · 04"
+      },
+      "camera": {
+        "focal": "250 mm",
+        "iso": "3200",
+        "shutter": "1/320 s",
+        "aperture": "f/6.3"
+      },
+      "src": "assets/photos/2026-g06-04.jpg",
+      "baseSrc": "assets/photos/base/2026-g06-04.jpg",
+      "watermarkYear": "2026",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(253,171,87)",
+        "foreground": "#000000"
+      },
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-g06-05",
+      "year": "2026",
+      "theme": {
+        "zh": "北京四时",
+        "en": "Beijing Seasons"
+      },
+      "title": {
+        "zh": "长安街晚霞 · 05",
+        "en": "Sunset on Chang'an Avenue · 05"
+      },
+      "alt": {
+        "zh": "北京四时摄影作品：长安街晚霞 · 05",
+        "en": "Beijing Seasons photograph: Sunset on Chang'an Avenue · 05"
+      },
+      "camera": {
+        "focal": "90 mm",
+        "iso": "2800",
+        "shutter": "1/160 s",
+        "aperture": "f/5"
+      },
+      "src": "assets/photos/2026-g06-05.jpg",
+      "baseSrc": "assets/photos/base/2026-g06-05.jpg",
+      "watermarkYear": "2026",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(254,169,135)",
+        "foreground": "#000000"
+      },
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2025-g07-05",
+      "year": "2025",
+      "theme": {
+        "zh": "乌兰察布火山",
+        "en": "Ulanqab Volcanoes"
+      },
+      "title": {
+        "zh": "火山星河",
+        "en": "Stars above the Volcano"
+      },
+      "alt": {
+        "zh": "乌兰察布火山摄影作品：火山星河",
+        "en": "Ulanqab Volcanoes photograph: Stars above the Volcano"
+      },
+      "camera": {
+        "focal": "",
+        "iso": "",
+        "shutter": "",
+        "aperture": ""
+      },
+      "src": "assets/photos/2025-g07-05.jpg",
+      "baseSrc": "assets/photos/base/2025-g07-05.jpg",
+      "watermarkYear": "2025",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(117,115,137)",
+        "foreground": "#ffffff"
+      },
+      "maxBytes": 1000000,
+      "featured": true,
+      "featuredOrder": 6,
+      "order": -3
+    },
+    {
+      "id": "2025-g07-06",
+      "year": "2025",
+      "theme": {
+        "zh": "乌兰察布火山",
+        "en": "Ulanqab Volcanoes"
+      },
+      "title": {
+        "zh": "风车剪影",
+        "en": "Wind Turbines at Dusk"
+      },
+      "alt": {
+        "zh": "乌兰察布火山摄影作品：风车剪影",
+        "en": "Ulanqab Volcanoes photograph: Wind Turbines at Dusk"
+      },
+      "camera": {
+        "focal": "250 mm",
+        "iso": "100",
+        "shutter": "1/640 s",
+        "aperture": "f/6.3"
+      },
+      "src": "assets/photos/2025-g07-06.jpg",
+      "baseSrc": "assets/photos/base/2025-g07-06.jpg",
+      "watermarkYear": "2025",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(8,7,8)",
+        "foreground": "#ffffff"
+      },
+      "maxBytes": 1000000,
+      "order": -2
+    },
+    {
+      "id": "2025-g07-07",
+      "year": "2025",
+      "theme": {
+        "zh": "乌兰察布火山",
+        "en": "Ulanqab Volcanoes"
+      },
+      "title": {
+        "zh": "火山旷野",
+        "en": "Volcanic Grassland"
+      },
+      "alt": {
+        "zh": "乌兰察布火山摄影作品：火山旷野",
+        "en": "Ulanqab Volcanoes photograph: Volcanic Grassland"
+      },
+      "camera": {
+        "focal": "50 mm",
+        "iso": "1600",
+        "shutter": "1/400 s",
+        "aperture": "f/4.5"
+      },
+      "src": "assets/photos/2025-g07-07.jpg",
+      "baseSrc": "assets/photos/base/2025-g07-07.jpg",
+      "watermarkYear": "2025",
+      "watermarkVersion": 2,
+      "watermarkHeight": 115,
+      "watermarkColors": {
+        "background": "rgb(85,69,53)",
+        "foreground": "#ffffff"
+      },
+      "maxBytes": 1000000,
+      "order": -1
+    },
+    {
+      "id": "2025-g09-03",
+      "year": "2025",
+      "theme": {
+        "zh": "偶然与想象",
+        "en": "Found Moments"
+      },
+      "title": {
+        "zh": "冬日塔影",
+        "en": "A Tower in Winter Light"
+      },
+      "alt": {
+        "zh": "偶然与想象摄影作品：冬日塔影",
+        "en": "Found Moments photograph: A Tower in Winter Light"
+      },
+      "camera": {
+        "focal": "",
+        "iso": "",
+        "shutter": "",
+        "aperture": ""
+      },
+      "src": "assets/photos/2025-g09-03.jpg",
+      "baseSrc": "assets/photos/base/2025-g09-03.jpg",
+      "watermarkYear": "2025",
+      "watermarkVersion": 2,
+      "watermarkHeight": 77,
+      "watermarkColors": {
+        "background": "rgb(215,173,142)",
+        "foreground": "#000000"
+      },
+      "maxBytes": 1000000
     }
   ],
   "stats": {
     "endpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/stats",
-    "visitEndpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/visit"
+    "visitEndpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/visit",
+    "likesEndpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/likes",
+    "likeEndpoint": "https://xiang-homepage-visitors.juziliu15.workers.dev/like"
   }
 };
