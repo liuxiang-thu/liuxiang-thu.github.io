@@ -527,14 +527,6 @@ window.SITE_CONTENT = {
         "aperture": "f/16"
       },
       "src": "assets/photos/2026-g01-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(201,205,214)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -560,14 +552,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g01-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 63,
-      "watermarkColors": {
-        "background": "rgb(53,72,86)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -593,14 +577,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g01-03.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-03.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(44,25,18)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -625,14 +601,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2026-g01-04.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-04.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(144,174,181)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -657,14 +625,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2026-g01-05.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-05.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(206,211,215)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 0
@@ -691,14 +651,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g01-06.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-06.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(75,106,117)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -723,14 +675,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g01-07.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-07.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(113,103,85)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 1
@@ -757,14 +701,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g01-08.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-08.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(55,76,16)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -789,14 +725,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g01-09.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-09.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(173,185,197)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -821,14 +749,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g01-10.jpg",
-      "baseSrc": "assets/photos/base/2026-g01-10.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(52,49,41)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -854,14 +774,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(39,56,73)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -886,14 +798,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2025-g02-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(205,208,205)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 4
@@ -920,14 +824,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g02-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(208,142,76)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -952,14 +848,6 @@ window.SITE_CONTENT = {
         "aperture": "f/16"
       },
       "src": "assets/photos/2025-g02-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(50,70,89)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -984,14 +872,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2025-g02-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(50,72,86)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1016,14 +896,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2026-g02-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g02-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(241,208,173)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1048,14 +920,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2026-g02-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g02-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(72,121,169)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1081,14 +945,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 71,
-      "watermarkColors": {
-        "background": "rgb(47,45,22)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1114,14 +970,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 63,
-      "watermarkColors": {
-        "background": "rgb(238,242,246)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1147,14 +995,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-08.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-08.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(46,47,46)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1179,14 +1019,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2026-g02-03.jpg",
-      "baseSrc": "assets/photos/base/2026-g02-03.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(115,138,137)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1212,14 +1044,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-09.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-09.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(39,56,41)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1245,14 +1069,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g02-10.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-10.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 63,
-      "watermarkColors": {
-        "background": "rgb(45,49,53)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1277,14 +1093,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2025-g02-11.jpg",
-      "baseSrc": "assets/photos/base/2025-g02-11.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 94,
-      "watermarkColors": {
-        "background": "rgb(49,46,44)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1310,14 +1118,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g02-04.jpg",
-      "baseSrc": "assets/photos/base/2026-g02-04.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(18,18,17)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1342,14 +1142,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g03-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g03-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(9,16,21)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 5
@@ -1377,14 +1169,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g03-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g03-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(22,37,54)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1409,14 +1193,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g03-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g03-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(5,5,5)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1442,14 +1218,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g03-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g03-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 36,
-      "watermarkColors": {
-        "background": "rgb(5,10,14)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1475,14 +1243,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g04-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g04-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(201,181,180)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1508,14 +1268,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g04-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g04-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(206,169,148)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1541,14 +1293,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g04-03.jpg",
-      "baseSrc": "assets/photos/base/2026-g04-03.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(77,78,52)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1573,14 +1317,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2026-g04-04.jpg",
-      "baseSrc": "assets/photos/base/2026-g04-04.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(146,138,111)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1605,14 +1341,6 @@ window.SITE_CONTENT = {
         "aperture": "f/2.8"
       },
       "src": "assets/photos/2025-g04-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(45,55,75)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1638,14 +1366,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g04-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(52,44,42)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1671,14 +1391,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g04-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 71,
-      "watermarkColors": {
-        "background": "rgb(84,82,82)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1703,14 +1415,6 @@ window.SITE_CONTENT = {
         "aperture": "f/1.4"
       },
       "src": "assets/photos/2025-g04-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(43,45,46)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1735,14 +1439,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2025-g04-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(14,22,19)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1768,14 +1464,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g04-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(20,21,21)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1800,14 +1488,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g04-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(8,16,14)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1833,14 +1513,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g04-08.jpg",
-      "baseSrc": "assets/photos/base/2025-g04-08.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(41,50,48)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1865,14 +1537,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.8"
       },
       "src": "assets/photos/2025-g05-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g05-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(245,244,239)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1898,14 +1562,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g05-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g05-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(20,39,48)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1930,14 +1586,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.8"
       },
       "src": "assets/photos/2025-g05-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g05-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(49,50,45)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1962,14 +1610,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5.3"
       },
       "src": "assets/photos/2025-g05-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g05-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(112,111,110)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -1994,14 +1634,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2026-g06-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g06-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(8,6,5)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2026,14 +1658,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5.6"
       },
       "src": "assets/photos/2026-g06-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g06-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(81,74,115)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2058,14 +1682,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g07-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 56,
-      "watermarkColors": {
-        "background": "rgb(41,45,49)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2090,14 +1706,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5.3"
       },
       "src": "assets/photos/2025-g07-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(13,2,1)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 7
@@ -2124,14 +1732,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g07-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(11,11,16)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2156,14 +1756,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g07-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(207,204,203)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 8
@@ -2190,14 +1782,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2026-g08-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g08-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 94,
-      "watermarkColors": {
-        "background": "rgb(46,79,49)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2222,14 +1806,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2026-g08-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g08-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 94,
-      "watermarkColors": {
-        "background": "rgb(84,105,78)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2254,14 +1830,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2026-g08-03.jpg",
-      "baseSrc": "assets/photos/base/2026-g08-03.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 94,
-      "watermarkColors": {
-        "background": "rgb(23,52,50)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2287,14 +1855,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2026-g08-04.jpg",
-      "baseSrc": "assets/photos/base/2026-g08-04.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(10,18,8)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2320,14 +1880,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g09-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g09-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(2,2,2)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2352,14 +1904,6 @@ window.SITE_CONTENT = {
         "aperture": "f/1.7"
       },
       "src": "assets/photos/2026-g09-01.jpg",
-      "baseSrc": "assets/photos/base/2026-g09-01.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(10,13,18)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 3
@@ -2386,14 +1930,6 @@ window.SITE_CONTENT = {
         "aperture": "f/1.7"
       },
       "src": "assets/photos/2026-g09-02.jpg",
-      "baseSrc": "assets/photos/base/2026-g09-02.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(72,86,108)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2418,14 +1954,6 @@ window.SITE_CONTENT = {
         "aperture": "f/2.5"
       },
       "src": "assets/photos/2025-g09-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g09-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(45,49,78)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2451,14 +1979,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g10-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(115,110,108)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2483,14 +2003,6 @@ window.SITE_CONTENT = {
         "aperture": "f/1.4"
       },
       "src": "assets/photos/2025-g10-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(6,11,14)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 9
@@ -2517,14 +2029,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2025-g10-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(208,231,239)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 10
@@ -2551,14 +2055,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g10-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(114,141,48)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2584,14 +2080,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g10-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(84,83,77)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2616,14 +2104,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5.3"
       },
       "src": "assets/photos/2025-g10-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(19,42,43)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2648,14 +2128,6 @@ window.SITE_CONTENT = {
         "aperture": "f/16"
       },
       "src": "assets/photos/2025-g10-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(18,15,6)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2681,14 +2153,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g10-08.jpg",
-      "baseSrc": "assets/photos/base/2025-g10-08.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(16,15,6)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2713,14 +2177,6 @@ window.SITE_CONTENT = {
         "aperture": "f/2"
       },
       "src": "assets/photos/2025-g11-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(41,50,6)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2745,14 +2201,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.8"
       },
       "src": "assets/photos/2025-g11-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(80,79,77)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2777,14 +2225,6 @@ window.SITE_CONTENT = {
         "aperture": "f/1.4"
       },
       "src": "assets/photos/2025-g11-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(81,40,5)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2809,14 +2249,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g11-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(121,151,179)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2841,14 +2273,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g11-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(49,84,7)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2873,14 +2297,6 @@ window.SITE_CONTENT = {
         "aperture": "f/7.1"
       },
       "src": "assets/photos/2025-g11-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 103,
-      "watermarkColors": {
-        "background": "rgb(81,107,50)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2905,14 +2321,6 @@ window.SITE_CONTENT = {
         "aperture": "f/18"
       },
       "src": "assets/photos/2025-g11-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g11-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(177,180,49)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2938,14 +2346,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g12-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g12-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(235,235,236)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -2971,14 +2371,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g12-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g12-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(53,74,80)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3003,14 +2395,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2025-g13-01.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-01.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(16,24,19)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3035,14 +2419,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2025-g13-02.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-02.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(13,25,36)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 11
@@ -3069,14 +2445,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2025-g13-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(150,152,142)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3101,14 +2469,6 @@ window.SITE_CONTENT = {
         "aperture": "f/8"
       },
       "src": "assets/photos/2025-g13-04.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-04.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(46,44,41)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3133,14 +2493,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4"
       },
       "src": "assets/photos/2025-g13-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(143,142,143)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3165,14 +2517,6 @@ window.SITE_CONTENT = {
         "aperture": "f/7.1"
       },
       "src": "assets/photos/2025-g13-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(80,142,251)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3197,14 +2541,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6"
       },
       "src": "assets/photos/2025-g13-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(138,146,146)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3229,14 +2565,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5.3"
       },
       "src": "assets/photos/2025-g13-08.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-08.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(113,111,111)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3261,14 +2589,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g13-09.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-09.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(20,21,22)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3293,14 +2613,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g13-10.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-10.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(52,69,88)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3325,14 +2637,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g13-11.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-11.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(79,114,143)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 12
@@ -3359,14 +2663,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g13-12.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-12.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(11,50,82)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3392,14 +2688,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g13-13.jpg",
-      "baseSrc": "assets/photos/base/2025-g13-13.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(50,24,22)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3424,14 +2712,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2026-g06-03.jpg",
-      "baseSrc": "assets/photos/base/2026-g06-03.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(236,147,107)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 2
@@ -3458,14 +2738,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2026-g06-04.jpg",
-      "baseSrc": "assets/photos/base/2026-g06-04.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(253,171,87)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3490,14 +2762,6 @@ window.SITE_CONTENT = {
         "aperture": "f/5"
       },
       "src": "assets/photos/2026-g06-05.jpg",
-      "baseSrc": "assets/photos/base/2026-g06-05.jpg",
-      "watermarkYear": "2026",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(254,169,135)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     },
     {
@@ -3522,14 +2786,6 @@ window.SITE_CONTENT = {
         "aperture": ""
       },
       "src": "assets/photos/2025-g07-05.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-05.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(117,115,137)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "featured": true,
       "featuredOrder": 6,
@@ -3557,14 +2813,6 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2025-g07-06.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-06.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(8,7,8)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "order": -2
     },
@@ -3590,14 +2838,6 @@ window.SITE_CONTENT = {
         "aperture": "f/4.5"
       },
       "src": "assets/photos/2025-g07-07.jpg",
-      "baseSrc": "assets/photos/base/2025-g07-07.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 115,
-      "watermarkColors": {
-        "background": "rgb(85,69,53)",
-        "foreground": "#ffffff"
-      },
       "maxBytes": 1000000,
       "order": -1
     },
@@ -3624,14 +2864,6 @@ window.SITE_CONTENT = {
       },
       "portrait": true,
       "src": "assets/photos/2025-g09-03.jpg",
-      "baseSrc": "assets/photos/base/2025-g09-03.jpg",
-      "watermarkYear": "2025",
-      "watermarkVersion": 2,
-      "watermarkHeight": 77,
-      "watermarkColors": {
-        "background": "rgb(215,173,142)",
-        "foreground": "#000000"
-      },
       "maxBytes": 1000000
     }
   ],
