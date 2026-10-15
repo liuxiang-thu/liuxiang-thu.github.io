@@ -1,6 +1,6 @@
 window.SITE_CONTENT = {
   "version": 1,
-  "updated": "2026-09-20",
+  "updated": "2026-10-15",
   "profile": {
     "name": {
       "zh": "刘翔",
@@ -165,6 +165,19 @@ window.SITE_CONTENT = {
     ],
     "graduate": [
       {
+        "date": "2026.10",
+        "title": {
+          "zh": "清华大学研究生综合一等奖学金",
+          "en": "First-Class Comprehensive Graduate Scholarship, Tsinghua University"
+        },
+        "detail": {
+          "zh": "",
+          "en": ""
+        },
+        "certificate": "",
+        "certificatePending": true
+      },
+      {
         "date": "2025.11",
         "title": {
           "zh": "中关村具身智能机器人应用大赛 · 优秀参赛团队",
@@ -227,8 +240,8 @@ window.SITE_CONTENT = {
         "en": "LPA-CWM learns the relative reliability of counterfactual responses instead of weighting them equally. A lightweight physical adjudicator combines visual context with response structure to weight candidates, improving motion localization and trajectory completeness. A completeness-aware evaluation protocol also accounts for missing predictions and temporal continuity."
       },
       "status": {
-        "zh": "预印本，2026 · ICLR 2027 投稿",
-        "en": "Preprint, 2026 · Submitted to ICLR 2027"
+        "zh": "arXiv",
+        "en": "arXiv"
       },
       "arxiv": "https://arxiv.org/abs/2609.14073",
       "project": "https://LPA-CWM.github.io/",
@@ -273,8 +286,8 @@ window.SITE_CONTENT = {
         "en": "ConfAL-WM uses a lightweight confidence probe to locate difficult spatiotemporal regions in world-model predictions. Dense confidence maps become task-, frame-, and patch-level scores for active data selection and localized training enhancement, improving post-training efficiency and embodied trajectory consistency."
       },
       "status": {
-        "zh": "arXiv，2026 · ICLR 2027 投稿",
-        "en": "arXiv, 2026 · Submitted to ICLR 2027"
+        "zh": "arXiv",
+        "en": "arXiv"
       },
       "arxiv": "https://arxiv.org/abs/2608.25572",
       "project": "https://ConfAL-WM.github.io/",
@@ -369,8 +382,8 @@ window.SITE_CONTENT = {
         "en": "HamiFormer targets long-horizon trajectory prediction under hybrid dynamics with a dual-expert diffusion field. A whole-window diffusion expert is routed with residual-corrected Hamiltonian propagation, and each mixed state is fed into the next physical step to attenuate inherited autoregressive error. PLAS constructs fixed-anchor affine symplectic maps with derivatives evaluated in parallel over physical time, while a Regime Model Tree adapts residuals and routing across smooth motion, collisions, and error-recovery regimes. The method improves 192-step stability on both HamiBalls benchmarks."
       },
       "status": {
-        "zh": "ICLR 2027 投稿 · 尚无 arXiv",
-        "en": "Submitted to ICLR 2027 · No arXiv yet"
+        "zh": "",
+        "en": ""
       },
       "arxiv": "",
       "project": "",
@@ -427,8 +440,8 @@ window.SITE_CONTENT = {
         "en": "GeoCo-SAVi makes position and scale effective controls in object-centric representations. A spatially equivariant object-wise decoder, position alignment, and appearance transplantation align geometry with rendered output, reducing the interference of appearance changes with geometric semantics."
       },
       "status": {
-        "zh": "arXiv，2026 · ICLR 2027 投稿",
-        "en": "arXiv, 2026 · Submitted to ICLR 2027"
+        "zh": "arXiv",
+        "en": "arXiv"
       },
       "arxiv": "https://arxiv.org/abs/2609.06628",
       "project": "",
@@ -489,8 +502,8 @@ window.SITE_CONTENT = {
         "en": "MOSH-WM grounds explicit object states in mask-owned image support and introduces a soft Hamiltonian prior for object-centric dynamics. Appearance and identity are kept in a separate visual context, improving object-state modeling and stability during long-horizon closed-loop prediction."
       },
       "status": {
-        "zh": "arXiv，2026 · AAAI 2027 投稿",
-        "en": "arXiv, 2026 · Submitted to AAAI 2027"
+        "zh": "arXiv",
+        "en": "arXiv"
       },
       "arxiv": "https://arxiv.org/abs/2608.22750",
       "project": "",
