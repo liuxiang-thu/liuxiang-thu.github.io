@@ -287,8 +287,8 @@ window.SITE_CONTENT = {
         "en": "ConfAL-WM uses a lightweight confidence probe to locate difficult spatiotemporal regions in world-model predictions. Dense confidence maps become task-, frame-, and patch-level scores for active data selection and localized training enhancement, improving post-training efficiency and embodied trajectory consistency."
       },
       "status": {
-        "zh": "arXiv · NeurIPS 2026 Workshops（3 项录用）",
-        "en": "arXiv · NeurIPS 2026 Workshops (3 acceptances)"
+        "zh": "arXiv · NeurIPS 2026 Workshops",
+        "en": "arXiv · NeurIPS 2026 Workshops"
       },
       "arxiv": "https://arxiv.org/abs/2608.25572",
       "project": "https://ConfAL-WM.github.io/",
