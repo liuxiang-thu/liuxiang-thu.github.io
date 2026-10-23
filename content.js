@@ -168,8 +168,8 @@ window.SITE_CONTENT = {
       {
         "date": "2026.10",
         "title": {
-          "zh": "清华大学研究生综合一等奖学金",
-          "en": "First-Class Comprehensive Graduate Scholarship, Tsinghua University"
+          "zh": "清华大学研究生综合优秀奖学金　综合一等",
+          "en": "Tsinghua University Graduate Comprehensive Excellence Scholarship · First Class"
         },
         "detail": {
           "zh": "",
