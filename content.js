@@ -1,6 +1,6 @@
 window.SITE_CONTENT = {
   "version": 1,
-  "updated": "2026-10-15",
+  "updated": "2026-10-23",
   "profile": {
     "name": {
       "zh": "刘翔",
@@ -45,7 +45,8 @@ window.SITE_CONTENT = {
       "assets/portraits/2.jpg",
       "assets/portraits/1.jpg",
       "assets/portraits/3.jpg",
-      "assets/portraits/4.jpg"
+      "assets/portraits/4.jpg",
+      "assets/portraits/garden-2026.jpg"
     ]
   },
   "experience": [
@@ -286,8 +287,8 @@ window.SITE_CONTENT = {
         "en": "ConfAL-WM uses a lightweight confidence probe to locate difficult spatiotemporal regions in world-model predictions. Dense confidence maps become task-, frame-, and patch-level scores for active data selection and localized training enhancement, improving post-training efficiency and embodied trajectory consistency."
       },
       "status": {
-        "zh": "arXiv",
-        "en": "arXiv"
+        "zh": "arXiv · NeurIPS 2026 Workshops（3 项录用）",
+        "en": "arXiv · NeurIPS 2026 Workshops (3 acceptances)"
       },
       "arxiv": "https://arxiv.org/abs/2608.25572",
       "project": "https://ConfAL-WM.github.io/",
@@ -298,7 +299,12 @@ window.SITE_CONTENT = {
         "en": "FIG. 1 · FROM THE PAPER"
       },
       "order": 0,
-      "pinned": true
+      "pinned": true,
+      "workshops": [
+        "Physical World Model",
+        "Continual World Models",
+        "Robot Learning with World Models: Capabilities, Frontiers, and Challenges"
+      ]
     },
     {
       "id": "scene",
@@ -340,8 +346,8 @@ window.SITE_CONTENT = {
         "en": "Starting from a real-world image and a natural-language task, Scene2Demo builds an interactive simulated scene and executable robot demonstrations. An object-action graph organizes task states and transitions, while visual feedback refines failed executions to produce offline embodied data for downstream policy learning."
       },
       "status": {
-        "zh": "FMEA @ CVPR 2026 · Poster",
-        "en": "FMEA @ CVPR 2026 · Poster"
+        "zh": "arXiv · FMEA @ CVPR 2026 · Poster",
+        "en": "arXiv · FMEA @ CVPR 2026 · Poster"
       },
       "arxiv": "https://arxiv.org/abs/2602.12065",
       "project": "https://scene2demo-anon.github.io/",
@@ -373,20 +379,24 @@ window.SITE_CONTENT = {
         {
           "name": "Jingheng Ma",
           "marks": ""
+        },
+        {
+          "name": "Sen Cui",
+          "marks": ""
         }
       ],
-      "date": "2026-09",
+      "date": "2026-09-26",
       "first": false,
       "summary": {
         "zh": "提出用于混合动力学长程轨迹预测的双专家扩散场：以整窗扩散专家与“哈密顿传播＋学习残差”专家逐步路由混合，并将混合状态反馈给后续物理传播，以削弱自回归误差累积。PLAS 在物理时间上并行构造固定锚点仿射辛映射，Regime Model Tree 则针对平滑演化、碰撞与误差恢复等动力学区域自适应残差和路由；在两套 HamiBalls 基准的 192 步评测中均提升长程稳定性。",
         "en": "HamiFormer targets long-horizon trajectory prediction under hybrid dynamics with a dual-expert diffusion field. A whole-window diffusion expert is routed with residual-corrected Hamiltonian propagation, and each mixed state is fed into the next physical step to attenuate inherited autoregressive error. PLAS constructs fixed-anchor affine symplectic maps with derivatives evaluated in parallel over physical time, while a Regime Model Tree adapts residuals and routing across smooth motion, collisions, and error-recovery regimes. The method improves 192-step stability on both HamiBalls benchmarks."
       },
       "status": {
-        "zh": "",
-        "en": ""
+        "zh": "arXiv",
+        "en": "arXiv"
       },
-      "arxiv": "",
-      "project": "",
+      "arxiv": "https://arxiv.org/abs/2609.32838",
+      "project": "https://hamiformer.github.io/",
       "openreview": "https://openreview.net/forum?id=Xh36ESRChj",
       "image": "assets/papers/hami.png",
       "figure": {

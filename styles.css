@@ -63,3 +63,19 @@
 /* Continuous navigation between photographs and gallery themes. */
 #lightbox{overflow:visible}.lightbox-arrow{position:fixed;top:50%;z-index:3;width:54px;height:68px;display:grid;place-items:center;transform:translateY(-50%);border:1px solid #ffffff55;border-radius:999px;background:#10151bcc;color:#fff;font:42px/1 Georgia,serif;box-shadow:0 5px 24px #0005;transition:background .16s,border-color .16s}.lightbox-arrow:hover{background:#285b9ce6;border-color:#ffffffaa}.lightbox-arrow[hidden]{display:none}.lightbox-prev{left:3vw}.lightbox-next{right:3vw}.theme-transition{width:100%;display:grid;grid-template-columns:minmax(105px,auto) minmax(0,1fr) 18px;align-items:center;gap:14px;padding:13px 4px;color:var(--muted);text-align:left;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.theme-transition.previous{margin:0 0 23px}.theme-transition.next{margin:8px 0 0}.theme-transition strong{font-weight:500;color:var(--ink)}.theme-transition span:last-child{text-align:right;color:var(--accent);font-size:20px}.theme-transition:hover{color:var(--accent);background:linear-gradient(90deg,transparent,var(--soft),transparent)}
 @media(max-width:760px){.lightbox-arrow{width:42px;height:54px;font-size:34px;background:#10151be6}.lightbox-prev{left:10px}.lightbox-next{right:10px}.theme-transition{grid-template-columns:1fr 18px;gap:5px 10px;padding:12px 3px}.theme-transition span:first-child{grid-column:1/-1;font-size:11px}.theme-transition strong{font-size:13px}.theme-transition span:last-child{grid-column:2;grid-row:2}}
+
+/* Bilingual resume downloads stay available in both interface languages. */
+.resume-download{position:relative;width:fit-content;margin-top:22px;font-size:13px;z-index:3}
+.resume-download summary{display:flex;align-items:center;gap:9px;width:fit-content;padding:9px 15px;border:1px solid var(--accent);border-radius:5px;color:var(--accent);background:var(--soft);cursor:pointer;list-style:none;font-weight:550}
+.resume-download summary::-webkit-details-marker{display:none}
+.resume-download summary svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.resume-download summary:hover,.resume-download[open] summary{background:var(--accent);color:var(--bg)}
+.resume-download summary:focus-visible,.resume-options a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.resume-chevron{font-size:17px;line-height:1;transition:transform .2s}
+.resume-download[open] .resume-chevron{transform:rotate(180deg)}
+.resume-options{position:absolute;top:calc(100% + 8px);left:0;width:238px;max-width:calc(100vw - 48px);padding:5px;background:var(--bg);border:1px solid var(--line);border-radius:6px;box-shadow:0 10px 28px #182d4b18}
+.resume-options a{display:grid;grid-template-columns:1fr auto;gap:1px 20px;padding:10px 12px;border-radius:3px;color:var(--ink)}
+.resume-options a:hover{background:var(--soft)}
+.resume-options strong{font-size:13px;font-weight:550}.resume-options small{grid-column:1;font-size:10px;color:var(--muted)}.resume-options a>span{grid-column:2;grid-row:1/3;align-self:center;font-size:20px;color:var(--accent)}
+.workshop-venues{display:block;margin-top:4px;font-size:11px;line-height:1.7;color:var(--muted)}
+#portrait-img[src$="garden-2026.jpg"]{object-fit:contain}

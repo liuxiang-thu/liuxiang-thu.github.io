@@ -1,0 +1,4 @@
+# Local editable CV sources, image work, and LaTeX build products.
+/resume-source/
+
+# Only the final public PDFs in assets/resume/ are published.
