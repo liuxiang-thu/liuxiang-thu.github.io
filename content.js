@@ -1247,16 +1247,16 @@ window.SITE_CONTENT = {
       "id": "2026-g04-01",
       "year": "2026",
       "theme": {
-        "zh": "清华园",
-        "en": "Tsinghua Campus"
+        "zh": "清华春景",
+        "en": "Tsinghua in Spring"
       },
       "title": {
         "zh": "清华光影 · 01",
         "en": "Tsinghua in Light · 01"
       },
       "alt": {
-        "zh": "清华园摄影作品：清华光影 · 01",
-        "en": "Tsinghua Campus photograph: Tsinghua in Light · 01"
+        "zh": "清华春景摄影作品：清华光影 · 01",
+        "en": "Tsinghua in Spring photograph: Tsinghua in Light · 01"
       },
       "camera": {
         "focal": "98 mm",
@@ -1272,16 +1272,16 @@ window.SITE_CONTENT = {
       "id": "2026-g04-02",
       "year": "2026",
       "theme": {
-        "zh": "清华园",
-        "en": "Tsinghua Campus"
+        "zh": "清华春景",
+        "en": "Tsinghua in Spring"
       },
       "title": {
         "zh": "清华光影 · 02",
         "en": "Tsinghua in Light · 02"
       },
       "alt": {
-        "zh": "清华园摄影作品：清华光影 · 02",
-        "en": "Tsinghua Campus photograph: Tsinghua in Light · 02"
+        "zh": "清华春景摄影作品：清华光影 · 02",
+        "en": "Tsinghua in Spring photograph: Tsinghua in Light · 02"
       },
       "camera": {
         "focal": "135 mm",
@@ -1297,16 +1297,16 @@ window.SITE_CONTENT = {
       "id": "2026-g04-03",
       "year": "2026",
       "theme": {
-        "zh": "清华园",
-        "en": "Tsinghua Campus"
+        "zh": "清华春景",
+        "en": "Tsinghua in Spring"
       },
       "title": {
         "zh": "清华光影 · 03",
         "en": "Tsinghua in Light · 03"
       },
       "alt": {
-        "zh": "清华园摄影作品：清华光影 · 03",
-        "en": "Tsinghua Campus photograph: Tsinghua in Light · 03"
+        "zh": "清华春景摄影作品：清华光影 · 03",
+        "en": "Tsinghua in Spring photograph: Tsinghua in Light · 03"
       },
       "camera": {
         "focal": "250 mm",
@@ -1322,16 +1322,16 @@ window.SITE_CONTENT = {
       "id": "2026-g04-04",
       "year": "2026",
       "theme": {
-        "zh": "清华园",
-        "en": "Tsinghua Campus"
+        "zh": "清华春景",
+        "en": "Tsinghua in Spring"
       },
       "title": {
         "zh": "清华光影 · 04",
         "en": "Tsinghua in Light · 04"
       },
       "alt": {
-        "zh": "清华园摄影作品：清华光影 · 04",
-        "en": "Tsinghua Campus photograph: Tsinghua in Light · 04"
+        "zh": "清华春景摄影作品：清华光影 · 04",
+        "en": "Tsinghua in Spring photograph: Tsinghua in Light · 04"
       },
       "camera": {
         "focal": "250 mm",
@@ -1340,6 +1340,231 @@ window.SITE_CONTENT = {
         "aperture": "f/6.3"
       },
       "src": "assets/photos/2026-g04-04.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-01",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 01",
+        "en": "Tsinghua in Autumn · 01"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 01",
+        "en": "Tsinghua autumn photograph · 01"
+      },
+      "camera": {
+        "focal": "9 mm",
+        "iso": "110",
+        "shutter": "1/200 s",
+        "aperture": "f/4.5"
+      },
+      "portrait": true,
+      "src": "assets/photos/2026-autumn-01.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-02",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 02",
+        "en": "Tsinghua in Autumn · 02"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 02",
+        "en": "Tsinghua autumn photograph · 02"
+      },
+      "camera": {
+        "focal": "33 mm",
+        "iso": "100",
+        "shutter": "1/4000 s",
+        "aperture": "f/1.4"
+      },
+      "portrait": false,
+      "src": "assets/photos/2026-autumn-02.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-03",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 03",
+        "en": "Tsinghua in Autumn · 03"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 03",
+        "en": "Tsinghua autumn photograph · 03"
+      },
+      "camera": {
+        "focal": "250 mm",
+        "iso": "100",
+        "shutter": "1/250 s",
+        "aperture": "f/6.3"
+      },
+      "portrait": false,
+      "src": "assets/photos/2026-autumn-03.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-04",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 04",
+        "en": "Tsinghua in Autumn · 04"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 04",
+        "en": "Tsinghua autumn photograph · 04"
+      },
+      "camera": {
+        "focal": "75 mm",
+        "iso": "100",
+        "shutter": "1/160 s",
+        "aperture": "f/4.8"
+      },
+      "portrait": true,
+      "src": "assets/photos/2026-autumn-04.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-05",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 05",
+        "en": "Tsinghua in Autumn · 05"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 05",
+        "en": "Tsinghua autumn photograph · 05"
+      },
+      "camera": {
+        "focal": "56 mm",
+        "iso": "100",
+        "shutter": "1/640 s",
+        "aperture": "f/4.5"
+      },
+      "portrait": true,
+      "src": "assets/photos/2026-autumn-05.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-06",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 06",
+        "en": "Tsinghua in Autumn · 06"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 06",
+        "en": "Tsinghua autumn photograph · 06"
+      },
+      "camera": {
+        "focal": "140 mm",
+        "iso": "100",
+        "shutter": "1/125 s",
+        "aperture": "f/5.3"
+      },
+      "portrait": true,
+      "src": "assets/photos/2026-autumn-06.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-07",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 07",
+        "en": "Tsinghua in Autumn · 07"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 07",
+        "en": "Tsinghua autumn photograph · 07"
+      },
+      "camera": {
+        "focal": "9 mm",
+        "iso": "100",
+        "shutter": "1/160 s",
+        "aperture": "f/8"
+      },
+      "portrait": false,
+      "src": "assets/photos/2026-autumn-07.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-08",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 08",
+        "en": "Tsinghua in Autumn · 08"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 08",
+        "en": "Tsinghua autumn photograph · 08"
+      },
+      "camera": {
+        "focal": "85 mm",
+        "iso": "1000",
+        "shutter": "1/800 s",
+        "aperture": "f/5"
+      },
+      "portrait": false,
+      "src": "assets/photos/2026-autumn-08.jpg",
+      "maxBytes": 1000000
+    },
+    {
+      "id": "2026-autumn-09",
+      "year": "2026",
+      "theme": {
+        "zh": "清华秋景",
+        "en": "Tsinghua in Autumn"
+      },
+      "title": {
+        "zh": "清华秋景 · 09",
+        "en": "Tsinghua in Autumn · 09"
+      },
+      "alt": {
+        "zh": "清华秋景摄影作品：清华秋景 · 09",
+        "en": "Tsinghua autumn photograph · 09"
+      },
+      "camera": {
+        "focal": "33 mm",
+        "iso": "800",
+        "shutter": "1/4000 s",
+        "aperture": "f/4"
+      },
+      "portrait": false,
+      "src": "assets/photos/2026-autumn-09.jpg",
       "maxBytes": 1000000
     },
     {
